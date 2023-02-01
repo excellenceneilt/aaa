@@ -366,25 +366,96 @@ namespace UI.WinForm.ChildForms
 
 
 
+        #region -> Definición de métodos de evento
 
+        private void btnSave_Click(object sender, EventArgs e)
+        {//Boton guardar cambios
 
-
-
-
-
-
-        /*
-            
-        public FormClientMaintenance()
-        {
-            InitializeComponent();
+            if (rbSingleInsert.Checked) //Si el botón de radio está activado.
+                PersistSingleRow();//Ejecutar el método de persistir una sola fila.
+            else //Caso contrario, ejecutar el método de persistir varias filas(Insercción masiva)
+                PersistMultipleRows();
+        }
+        private void btnAddClientList_Click(object sender, EventArgs e)
+        {//Botón de agregar usuario a la colección de usuarios para la insercción masiva.
+            ModifyClientCollection();
         }
 
         private void FormClientMaintenance_Load(object sender, EventArgs e)
         {
 
-        }        
-         */
+        }
+        private void rbSingleInsert_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rbSingleInsert.Checked)//Cambiar la apariencia para la inserción única.
+            {
+                panelMultiInsert.Visible = false;
+                btnCancel.Location = new Point(210, 310);
+                btnSave.Location = new Point(386, 310);
+                this.Size = new Size(754, 370);
+            }
+            else //Cambiar la apariencia para insercción masiva.
+            {
+                panelMultiInsert.Visible = true;
+                btnCancel.Location = new Point(212, 654);
+                btnSave.Location = new Point(388, 654);
+                this.Size = new Size(754, 715);
+            }
+        }
+
+       
+
+        private void dataGridView1_CellMouseEnter(object sender, DataGridViewCellEventArgs e)
+        {//Cambiar el cursor si puntero del mouse entra en la columna de editar o eliminar.
+            if (e.ColumnIndex == dataGridView1.Columns["EditColumn"].Index
+                || e.ColumnIndex == dataGridView1.Columns["DeleteColumn"].Index)
+            {
+                dataGridView1.Cursor = Cursors.Hand;
+            }
+        }
+        private void dataGridView1_CellMouseLeave(object sender, DataGridViewCellEventArgs e)
+        {//Cambiar el cursor si puntero del mouse entra en la columna de editar o eliminar.
+            if (e.ColumnIndex == dataGridView1.Columns["EditColumn"].Index
+                || e.ColumnIndex == dataGridView1.Columns["DeleteColumn"].Index)
+            {
+                dataGridView1.Cursor = Cursors.Default;
+            }
+        }
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {//Eliminar o editar un usuario de la colección de usuarios.
+            if (e.RowIndex == dataGridView1.NewRowIndex || e.RowIndex < 0)
+                return;
+
+            if (e.ColumnIndex == dataGridView1.Columns["DeleteColumn"].Index)
+            {
+                if (listOperation != TransactionAction.Edit)
+                    clientCollection.RemoveAt(e.RowIndex);
+                else MessageBox.Show("Se está editando datos, por favor termine la operación.");
+            }
+            if (e.ColumnIndex == dataGridView1.Columns["EditColumn"].Index)
+            {
+                clientViewModel = clientCollection[e.RowIndex];
+                FillFields(clientViewModel);
+                listOperation = TransactionAction.Edit;
+                btnAddClient.Text = "Actualizar";
+                btnAddClient.BackColor = Color.MediumSlateBlue;
+            }
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {//Si se cancela la acción establecer nulo como último registro.
+            LastRecord = null;
+            this.Close();
+        }
+
+        protected override void CloseForm()
+        {//Si se cierra el formulario, establecer nulo como último registro.
+            base.CloseForm();
+            LastRecord = null;
+        }
+        #endregion
+
+
 
     }
 }

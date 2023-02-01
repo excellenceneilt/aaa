@@ -191,7 +191,7 @@
             this.dataGridView1.TabIndex = 76;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
-            // FormPacients
+            // FormClients
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -204,9 +204,9 @@
             this.Controls.Add(this.Label7);
             this.Controls.Add(this.txtSearch);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "FormPacients";
-            this.Text = "Lista de pacientes";
-            this.Load += new System.EventHandler(this.FormPacients_Load);
+            this.Name = "FormClients";
+            this.Text = "Lista de clientes";
+            this.Load += new System.EventHandler(this.FormClients_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
