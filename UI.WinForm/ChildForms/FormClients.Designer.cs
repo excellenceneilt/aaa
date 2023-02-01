@@ -71,6 +71,7 @@
             this.btnDetalles.TabIndex = 82;
             this.btnDetalles.Text = "Ver detalles";
             this.btnDetalles.UseVisualStyleBackColor = false;
+            this.btnDetalles.Click += new System.EventHandler(this.btnDetalles_Click_1);
             // 
             // btnEdit
             // 

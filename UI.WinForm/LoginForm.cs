@@ -38,7 +38,7 @@ namespace UI.WinForm
             placeholderColor = txtUsername.ForeColor;////Establecer color de placeholder.
             textColor = Color.DimGray;//Establecer color del cuadro de texto usuario y contraseña.
 
-            lblDescription.Select();//Seleccionar un control diferente, para que los cuadros de texto no se inicien enfocados.
+          //  lblDescription.Select();//Seleccionar un control diferente, para que los cuadros de texto no se inicien enfocados.
         }
         #endregion
 
@@ -143,7 +143,7 @@ namespace UI.WinForm
             SetPlaceholder();
             ActiveUser.Id = 0;
             ActiveUser.Position = "";
-            lblDescription.Select();
+           // lblDescription.Select();
             lblErrorMessage.Visible = false;
         }
         private void ShowMessage(string message)
@@ -182,12 +182,13 @@ namespace UI.WinForm
             //Dibujar el borde del formulario.
             e.Graphics.DrawRectangle(new Pen(Color.Gray), 0, 0, this.Width - 1, this.Height - 1);
         }
+        /*
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
             //Dibujar la linea superior de la descripción.
             e.Graphics.DrawLine(new Pen(lblDescription.ForeColor, 1), lblDescription.Location.X, lblDescription.Top - 5, lblDescription.Right - 5, lblDescription.Top - 5);
         }
-
+        */
         private void txtUsername_Enter(object sender, EventArgs e)
         {
             //Quitar la marca de agua cuando el cursor ingrese en el cuadro de texto usuario.

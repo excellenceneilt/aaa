@@ -40,7 +40,7 @@
             this.btnReports = new System.Windows.Forms.Button();
             this.btnCalendar = new System.Windows.Forms.Button();
             this.btnHistory = new System.Windows.Forms.Button();
-            this.btnPacients = new System.Windows.Forms.Button();
+            this.btnClients = new System.Windows.Forms.Button();
             this.btnUsers = new System.Windows.Forms.Button();
             this.panelMenuHeader = new System.Windows.Forms.Panel();
             this.lblLastName = new System.Windows.Forms.Label();
@@ -93,13 +93,13 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Montserrat", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label1.Location = new System.Drawing.Point(35, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(132, 18);
+            this.label1.Size = new System.Drawing.Size(100, 17);
             this.label1.TabIndex = 15;
-            this.label1.Text = "Full Login Project";
+            this.label1.Text = "Menú principal";
             // 
             // pictureBox2
             // 
@@ -163,7 +163,7 @@
             this.panelSideMenu.Controls.Add(this.btnReports);
             this.panelSideMenu.Controls.Add(this.btnCalendar);
             this.panelSideMenu.Controls.Add(this.btnHistory);
-            this.panelSideMenu.Controls.Add(this.btnPacients);
+            this.panelSideMenu.Controls.Add(this.btnClients);
             this.panelSideMenu.Controls.Add(this.btnUsers);
             this.panelSideMenu.Controls.Add(this.panelMenuHeader);
             this.panelSideMenu.Dock = System.Windows.Forms.DockStyle.Left;
@@ -252,26 +252,26 @@
             this.btnHistory.UseVisualStyleBackColor = true;
             this.btnHistory.Click += new System.EventHandler(this.btnHistory_Click);
             // 
-            // btnPacients
+            // btnClients
             // 
-            this.btnPacients.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnPacients.FlatAppearance.BorderSize = 0;
-            this.btnPacients.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPacients.Font = new System.Drawing.Font("MS Reference Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPacients.ForeColor = System.Drawing.Color.DarkGray;
-            this.btnPacients.Image = ((System.Drawing.Image)(resources.GetObject("btnPacients.Image")));
-            this.btnPacients.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnPacients.Location = new System.Drawing.Point(0, 190);
-            this.btnPacients.Margin = new System.Windows.Forms.Padding(2);
-            this.btnPacients.Name = "btnPacients";
-            this.btnPacients.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
-            this.btnPacients.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.btnPacients.Size = new System.Drawing.Size(230, 45);
-            this.btnPacients.TabIndex = 21;
-            this.btnPacients.Text = "  Pacientes";
-            this.btnPacients.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnPacients.UseVisualStyleBackColor = true;
-            this.btnPacients.Click += new System.EventHandler(this.btnPacients_Click);
+            this.btnClients.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnClients.FlatAppearance.BorderSize = 0;
+            this.btnClients.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClients.Font = new System.Drawing.Font("MS Reference Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClients.ForeColor = System.Drawing.Color.DarkGray;
+            this.btnClients.Image = ((System.Drawing.Image)(resources.GetObject("btnClients.Image")));
+            this.btnClients.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnClients.Location = new System.Drawing.Point(0, 190);
+            this.btnClients.Margin = new System.Windows.Forms.Padding(2);
+            this.btnClients.Name = "btnClients";
+            this.btnClients.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            this.btnClients.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.btnClients.Size = new System.Drawing.Size(230, 45);
+            this.btnClients.TabIndex = 21;
+            this.btnClients.Text = "  Clientes";
+            this.btnClients.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnClients.UseVisualStyleBackColor = true;
+            this.btnClients.Click += new System.EventHandler(this.btnClients_Click);
             // 
             // btnUsers
             // 
@@ -316,7 +316,7 @@
             this.lblLastName.ForeColor = System.Drawing.Color.DarkGray;
             this.lblLastName.Location = new System.Drawing.Point(72, 36);
             this.lblLastName.Name = "lblLastName";
-            this.lblLastName.Size = new System.Drawing.Size(70, 16);
+            this.lblLastName.Size = new System.Drawing.Size(69, 16);
             this.lblLastName.TabIndex = 17;
             this.lblLastName.Text = "LastName";
             // 
@@ -367,7 +367,7 @@
             this.lblPosition.ForeColor = System.Drawing.Color.DarkGray;
             this.lblPosition.Location = new System.Drawing.Point(72, 52);
             this.lblPosition.Name = "lblPosition";
-            this.lblPosition.Size = new System.Drawing.Size(56, 16);
+            this.lblPosition.Size = new System.Drawing.Size(55, 16);
             this.lblPosition.TabIndex = 15;
             this.lblPosition.Text = "Position";
             // 
@@ -396,7 +396,7 @@
             // lblCaption
             // 
             this.lblCaption.Dock = System.Windows.Forms.DockStyle.Left;
-            this.lblCaption.Font = new System.Drawing.Font("Montserrat", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCaption.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCaption.ForeColor = System.Drawing.Color.DimGray;
             this.lblCaption.Location = new System.Drawing.Point(30, 0);
             this.lblCaption.Name = "lblCaption";
@@ -437,11 +437,11 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Verdana", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.DimGray;
-            this.label3.Location = new System.Drawing.Point(277, 321);
+            this.label3.Location = new System.Drawing.Point(426, 322);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(378, 18);
+            this.label3.Size = new System.Drawing.Size(62, 18);
             this.label3.TabIndex = 16;
-            this.label3.Text = "Programming and software development tutorials";
+            this.label3.Text = "Medical";
             // 
             // label2
             // 
@@ -449,11 +449,11 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Verdana", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.DimGray;
-            this.label2.Location = new System.Drawing.Point(349, 295);
+            this.label2.Location = new System.Drawing.Point(382, 292);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(222, 26);
+            this.label2.Size = new System.Drawing.Size(153, 26);
             this.label2.TabIndex = 15;
-            this.label2.Text = "RJ CODE ADVANCE";
+            this.label2.Text = "EXCELLENCE";
             // 
             // pictureBox1
             // 
@@ -463,7 +463,7 @@
             this.pictureBox1.Location = new System.Drawing.Point(385, 161);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(150, 128);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 14;
             this.pictureBox1.TabStop = false;
             // 
@@ -518,7 +518,7 @@
         internal System.Windows.Forms.Button btnReports;
         internal System.Windows.Forms.Button btnCalendar;
         internal System.Windows.Forms.Button btnHistory;
-        internal System.Windows.Forms.Button btnPacients;
+        internal System.Windows.Forms.Button btnClients;
         internal System.Windows.Forms.Button btnUsers;
         internal System.Windows.Forms.Button btnLogout;
         private System.Windows.Forms.Label label3;

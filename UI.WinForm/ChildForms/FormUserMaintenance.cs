@@ -509,5 +509,15 @@ namespace UI.WinForm.ChildForms
         {
 
         }
+
+        private void panelMultiInsert_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panelAddedControl_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

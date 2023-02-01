@@ -103,7 +103,24 @@ namespace UI.WinForm.Base
            base.OnPaint(e);
            e.Graphics.DrawRectangle(new Pen(Color.Gray,1), 0, 0, this.Width - 1, this.Height - 1);//Dibujar el borde del formulario.
        }
-       #endregion
+        #endregion
 
-   }
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // BaseFixedForm
+            // 
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Name = "BaseFixedForm";
+            this.Load += new System.EventHandler(this.BaseFixedForm_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        private void BaseFixedForm_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

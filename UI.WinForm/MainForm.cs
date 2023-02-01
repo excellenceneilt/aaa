@@ -75,7 +75,7 @@ namespace UI.WinForm
                     break;
                 case Positions.Accountant:
                     btnUsers.Enabled = false;
-                    btnPacients.Enabled = false;
+                    btnClients.Enabled = false;
                     btnHistory.Enabled = false;
                     btnCalendar.Enabled = false;
                     break;
@@ -327,7 +327,7 @@ namespace UI.WinForm
             //sender: Botón users.
         }
 
-        private void btnPacients_Click(object sender, EventArgs e)
+        private void btnClients_Click(object sender, EventArgs e)
         {
             OpenChildForm(() => new FormClients(), sender);
         }

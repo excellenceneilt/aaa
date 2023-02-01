@@ -51,7 +51,7 @@
             this.label2.ForeColor = System.Drawing.Color.RoyalBlue;
             this.label2.Location = new System.Drawing.Point(294, 53);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(205, 32);
+            this.label2.Size = new System.Drawing.Size(204, 32);
             this.label2.TabIndex = 9;
             this.label2.Text = "W E L C O M E";
             // 
@@ -60,7 +60,7 @@
             this.lblUsername.AutoSize = true;
             this.lblUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUsername.ForeColor = System.Drawing.Color.Gray;
-            this.lblUsername.Location = new System.Drawing.Point(317, 95);
+            this.lblUsername.Location = new System.Drawing.Point(455, 99);
             this.lblUsername.Name = "lblUsername";
             this.lblUsername.Size = new System.Drawing.Size(130, 29);
             this.lblUsername.TabIndex = 8;
@@ -96,7 +96,7 @@
             this.circularProgressBar1.InnerColor = System.Drawing.Color.WhiteSmoke;
             this.circularProgressBar1.InnerMargin = 2;
             this.circularProgressBar1.InnerWidth = -1;
-            this.circularProgressBar1.Location = new System.Drawing.Point(365, 156);
+            this.circularProgressBar1.Location = new System.Drawing.Point(460, 157);
             this.circularProgressBar1.MarqueeAnimationSpeed = 2000;
             this.circularProgressBar1.Name = "circularProgressBar1";
             this.circularProgressBar1.OuterColor = System.Drawing.Color.Gainsboro;
@@ -122,13 +122,13 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Montserrat", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.label1.Location = new System.Drawing.Point(40, 10);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(132, 18);
+            this.label1.Size = new System.Drawing.Size(123, 17);
             this.label1.TabIndex = 2;
-            this.label1.Text = "RJ Code Advance";
+            this.label1.Text = "Excellence system";
             // 
             // pictureBox2
             // 
@@ -168,11 +168,6 @@
             this.Text = "WelcomeForm";
             this.Load += new System.EventHandler(this.WelcomeForm_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.WelcomeForm_Paint);
-            this.Controls.SetChildIndex(this.circularProgressBar1, 0);
-            this.Controls.SetChildIndex(this.pictureBox1, 0);
-            this.Controls.SetChildIndex(this.lblUsername, 0);
-            this.Controls.SetChildIndex(this.label2, 0);
-            this.Controls.SetChildIndex(this.panel1, 0);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panel1.ResumeLayout(false);

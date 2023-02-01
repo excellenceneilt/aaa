@@ -79,8 +79,8 @@ namespace UI.WinForm.ChildForms
                 FindClient(txtSearch.Text);//Buscar usuario si se preciona tecla enter en cuadro de texto buscar.
             }
         }
-
-        private void btnDetalles_Click(object sender, EventArgs e)
+        /*
+         private void btnDetalles_Click(object sender, EventArgs e)
         {//Mostrar detalles de usuario.
             if (dataGridView1.RowCount <= 0)
             {
@@ -97,6 +97,9 @@ namespace UI.WinForm.ChildForms
             else
                 MessageBox.Show("Por favor seleccione una fila", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
+         
+         
+        */
         private void btnAdd_Click(object sender, EventArgs e)
         {//Agregar nuevo usuario.
             maintenanceForm = new FormClientMaintenance(new ClientViewModel(), TransactionAction.Add);//Instanciar formulario, y enviar parámetros (modelo de vista y acción).
@@ -104,6 +107,7 @@ namespace UI.WinForm.ChildForms
             maintenanceForm.ShowDialog();//Mostrar formulario de mantenimiento.
 
         }
+        
         private void btnEdit_Click(object sender, EventArgs e)
         {//Editar usuario.
             if (dataGridView1.RowCount <= 0)
@@ -166,6 +170,26 @@ namespace UI.WinForm.ChildForms
 
         }
 
-      
+        private void btnDetalles_Click_1(object sender, EventArgs e)
+        {
+            if (dataGridView1.RowCount <= 0)
+            {
+                MessageBox.Show("No hay datos para seleccionar", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                var client = GetClient((int)dataGridView1.CurrentRow.Cells[0].Value);//Obtener ID del usuario y buscar usando el método GetUser(id).
+                if (client == null) return;
+                var frm = new FormClientMaintenance(client, TransactionAction.View);//Instanciar formulario, y enviar parámetros (modelo de vista y acción).
+                frm.ShowDialog();//Mostrar formulario.
+            }
+            else
+                MessageBox.Show("Por favor seleccione una fila", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        
+
     }
+    
 }

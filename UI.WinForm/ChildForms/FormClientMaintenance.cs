@@ -85,7 +85,7 @@ namespace UI.WinForm.ChildForms
 
                 case TransactionAction.Add:
                     this.TitleBarColor = Color.SeaGreen;
-                    lblTitle.Text = "Agregar usuario";
+                    lblTitle.Text = "Agregar cliente";
                     lblTitle.ForeColor = Color.SeaGreen;
                     btnSave.BackColor = Color.SeaGreen;
                    
@@ -385,25 +385,6 @@ namespace UI.WinForm.ChildForms
         {
 
         }
-        private void rbSingleInsert_CheckedChanged(object sender, EventArgs e)
-        {
-            if (rbSingleInsert.Checked)//Cambiar la apariencia para la inserción única.
-            {
-                panelMultiInsert.Visible = false;
-                btnCancel.Location = new Point(210, 310);
-                btnSave.Location = new Point(386, 310);
-                this.Size = new Size(754, 370);
-            }
-            else //Cambiar la apariencia para insercción masiva.
-            {
-                panelMultiInsert.Visible = true;
-                btnCancel.Location = new Point(212, 654);
-                btnSave.Location = new Point(388, 654);
-                this.Size = new Size(754, 715);
-            }
-        }
-
-       
 
         private void dataGridView1_CellMouseEnter(object sender, DataGridViewCellEventArgs e)
         {//Cambiar el cursor si puntero del mouse entra en la columna de editar o eliminar.
@@ -453,9 +434,26 @@ namespace UI.WinForm.ChildForms
             base.CloseForm();
             LastRecord = null;
         }
+
+
         #endregion
 
-
-
+        private void rbSingleInsert_CheckedChanged_1(object sender, EventArgs e)
+        {
+            if (rbSingleInsert.Checked)//Cambiar la apariencia para la inserción única.
+            {
+                panelMultiInsert.Visible = false;
+                btnCancel.Location = new Point(210, 310);
+                btnSave.Location = new Point(386, 310);
+                this.Size = new Size(754, 370);
+            }
+            else //Cambiar la apariencia para insercción masiva.
+            {
+                panelMultiInsert.Visible = true;
+                btnCancel.Location = new Point(212, 654);
+                btnSave.Location = new Point(388, 654);
+                this.Size = new Size(754, 715);
+            }
+        }
     }
 }
