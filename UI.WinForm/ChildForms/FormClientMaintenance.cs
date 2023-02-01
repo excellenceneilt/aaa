@@ -367,7 +367,7 @@ namespace UI.WinForm.ChildForms
 
 
         #region -> Definición de métodos de evento
-
+        /*
         private void btnSave_Click(object sender, EventArgs e)
         {//Boton guardar cambios
 
@@ -376,6 +376,7 @@ namespace UI.WinForm.ChildForms
             else //Caso contrario, ejecutar el método de persistir varias filas(Insercción masiva)
                 PersistMultipleRows();
         }
+        */
         private void btnAddClientList_Click(object sender, EventArgs e)
         {//Botón de agregar usuario a la colección de usuarios para la insercción masiva.
             ModifyClientCollection();
@@ -422,13 +423,13 @@ namespace UI.WinForm.ChildForms
                 btnAddClient.BackColor = Color.MediumSlateBlue;
             }
         }
-
+        /*
         private void btnCancel_Click(object sender, EventArgs e)
         {//Si se cancela la acción establecer nulo como último registro.
             LastRecord = null;
             this.Close();
         }
-
+        */
         protected override void CloseForm()
         {//Si se cierra el formulario, establecer nulo como último registro.
             base.CloseForm();
@@ -454,6 +455,26 @@ namespace UI.WinForm.ChildForms
                 btnSave.Location = new Point(388, 654);
                 this.Size = new Size(754, 715);
             }
+        }
+
+        private void btnSave_Click_1(object sender, EventArgs e)
+        {
+            if (rbSingleInsert.Checked) //Si el botón de radio está activado.
+                PersistSingleRow();//Ejecutar el método de persistir una sola fila.
+            else //Caso contrario, ejecutar el método de persistir varias filas(Insercción masiva)
+                PersistMultipleRows();
+        }
+
+        private void btnCancel_Click_1(object sender, EventArgs e)
+        {//Si se cancela la acción establecer nulo como último registro.
+            LastRecord = null;
+            this.Close();
+
+        }
+
+        private void btnAddClient_Click(object sender, EventArgs e)
+        {
+            ModifyClientCollection();
         }
     }
 }
