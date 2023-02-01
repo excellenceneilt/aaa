@@ -1,0 +1,23 @@
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.AssemblyReference.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CoreCompileInputs.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CopyComplete
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
