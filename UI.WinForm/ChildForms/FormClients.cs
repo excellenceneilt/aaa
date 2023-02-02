@@ -68,20 +68,23 @@ namespace UI.WinForm.ChildForms
             dataGridView1.Columns[0].Width = 50;//Establecer un ancho fijo para la columna ID.
             dataGridView1.Columns[1].Width = 100;//Establecer un ancho fijo para la columna Username.
         }
+
         private void btnSearch_Click(object sender, EventArgs e)
         {
-            FindClient(txtSearch.Text);//Buscar usuario.
+            FindClient(txtSearch1.Text);//Buscar usuario.
         }
+
         private void txtSearch_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
             {
-                FindClient(txtSearch.Text);//Buscar usuario si se preciona tecla enter en cuadro de texto buscar.
+                FindClient(txtSearch1.Text);//Buscar usuario si se preciona tecla enter en cuadro de texto buscar.
             }
         }
-        /*
-         private void btnDetalles_Click(object sender, EventArgs e)
-        {//Mostrar detalles de usuario.
+
+
+        private void btnDetalles_Click_1(object sender, EventArgs e)
+        {
             if (dataGridView1.RowCount <= 0)
             {
                 MessageBox.Show("No hay datos para seleccionar", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -97,9 +100,6 @@ namespace UI.WinForm.ChildForms
             else
                 MessageBox.Show("Por favor seleccione una fila", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
-         
-         
-        */
         private void btnAdd_Click(object sender, EventArgs e)
         {//Agregar nuevo usuario.
             maintenanceForm = new FormClientMaintenance(new ClientViewModel(), TransactionAction.Add);//Instanciar formulario, y enviar parámetros (modelo de vista y acción).
@@ -127,8 +127,11 @@ namespace UI.WinForm.ChildForms
             else
                 MessageBox.Show("Por favor seleccione una fila", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
-        private void btnRemove_Click(object sender, EventArgs e)
-        {//Eliminar usuario.
+
+        
+
+        private void btnRemove_Click_1(object sender, EventArgs e)
+        {
             if (dataGridView1.RowCount <= 0)
             {
                 MessageBox.Show("No hay datos para seleccionar", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -148,7 +151,7 @@ namespace UI.WinForm.ChildForms
         }
 
         private void MaintenanceFormClosed(object sender, FormClosedEventArgs e)
-        {//Actualizar el datagridview despues que el formualario de mantenimiento se cierre.
+        {//Actualizar el datagridview despues que el formulario de mantenimiento se cierre.
             var lastData = maintenanceForm.LastRecord;//Obtener el último registro del formulario de mantenimiento.
             if (lastData != null)//Si tiene un último registro.
             {
@@ -170,26 +173,32 @@ namespace UI.WinForm.ChildForms
 
         }
 
-        private void btnDetalles_Click_1(object sender, EventArgs e)
-        {
+        
+
+        private void btnEdit_Click_1(object sender, EventArgs e)
+        {//Editar usuario.
             if (dataGridView1.RowCount <= 0)
             {
                 MessageBox.Show("No hay datos para seleccionar", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 return;
             }
-            if (dataGridView1.SelectedRows.Count > 0)
+            if (dataGridView1.SelectedCells.Count > 1)
             {
                 var client = GetClient((int)dataGridView1.CurrentRow.Cells[0].Value);//Obtener ID del usuario y buscar usando el método GetUser(id).
                 if (client == null) return;
-                var frm = new FormClientMaintenance(client, TransactionAction.View);//Instanciar formulario, y enviar parámetros (modelo de vista y acción).
-                frm.ShowDialog();//Mostrar formulario.
+
+                maintenanceForm = new FormClientMaintenance(client, TransactionAction.Edit);//Instanciar formulario, y enviar parámetros (modelo de vista y acción).
+                maintenanceForm.FormClosed += new FormClosedEventHandler(MaintenanceFormClosed);//Asociar evento cerrado, para actualizar el datagrdiview despues que el formualario de mantenimiento se cierre.
+                maintenanceForm.ShowDialog();//Mostrar formulario de mantenimiento.            
             }
             else
                 MessageBox.Show("Por favor seleccione una fila", "Mensaje", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
         }
 
         
 
+        
     }
     
 }

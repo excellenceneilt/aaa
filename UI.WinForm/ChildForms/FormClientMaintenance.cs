@@ -376,12 +376,12 @@ namespace UI.WinForm.ChildForms
             else //Caso contrario, ejecutar el método de persistir varias filas(Insercción masiva)
                 PersistMultipleRows();
         }
-        */
+        
         private void btnAddClientList_Click(object sender, EventArgs e)
         {//Botón de agregar usuario a la colección de usuarios para la insercción masiva.
             ModifyClientCollection();
         }
-
+        */
         private void FormClientMaintenance_Load(object sender, EventArgs e)
         {
 
