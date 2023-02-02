@@ -30,3 +30,12 @@ D:\Desarrollo\CODE\Test2\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.cspro
 D:\Desarrollo\CODE\Test2\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CopyComplete
 D:\Desarrollo\CODE\Test2\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
 D:\Desarrollo\CODE\Test2\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.dll
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\bin\Debug\Infra.Common.pdb
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.AssemblyReference.cache
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CoreCompileInputs.cache
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CopyComplete
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+D:\Sistema\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
