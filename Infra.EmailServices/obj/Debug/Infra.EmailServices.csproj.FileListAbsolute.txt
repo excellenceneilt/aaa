@@ -1,0 +1,23 @@
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.EmailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.EmailServices.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.EmailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.EmailServices.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.EmailServices.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.EmailServices.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.Common.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\bin\Debug\Infra.Common.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.csproj.AssemblyReference.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.csproj.CoreCompileInputs.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.csproj.CopyComplete
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.EmailServices\obj\Debug\Infra.EmailServices.pdb

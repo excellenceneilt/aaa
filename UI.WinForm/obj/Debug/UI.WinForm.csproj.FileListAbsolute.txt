@@ -1,0 +1,104 @@
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.Models.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.Models.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUsers.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserMaintenance.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.LoginForm.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.MainForm.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\CircularProgressBar.xml
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.WelcomeForm.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormCalendar.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormHistory.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormPacients.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormReports.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserProfile.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.EmailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.EmailServices.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormRecoverPassword.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\CircularProgressBar.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.Models.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\WinFormAnimation.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.DataAccess.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.EmailServices.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.Models.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\CircularProgressBar.xml
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.DataAccess.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.EmailServices.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormCalendar.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormHistory.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormPacients.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormRecoverPassword.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormReports.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserMaintenance.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserProfile.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUsers.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.LoginForm.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.MainForm.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.WelcomeForm.resources
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Store\CS- FullLogin CRUD SQL -AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+D:\RJ Code Advance\Store\CS- FullLogin CRUD SQL -AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.exe
+D:\RJ Code Advance\Store\CS- FullLogin CRUD SQL -AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.exe
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\UI.WinForm.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\CircularProgressBar.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.Models.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.Common.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\WinFormAnimation.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.DataAccess.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.EmailServices.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.Models.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.Common.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\CircularProgressBar.xml
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.DataAccess.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\bin\Debug\Infra.EmailServices.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csproj.AssemblyReference.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csproj.SuggestedBindingRedirects.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormCalendar.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormHistory.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormRecoverPassword.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormReports.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserMaintenance.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserProfile.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUsers.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.LoginForm.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.MainForm.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.WelcomeForm.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csproj.CoreCompileInputs.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.csproj.CopyComplete
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.exe
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormClients.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormClientMaintenance.resources
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.Base.BaseFixedForm.resources

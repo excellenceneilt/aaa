@@ -1,0 +1,16 @@
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.Common\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.Common\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.Common\bin\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.Common\bin\Debug\Infra.Common.pdb
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.dll
+D:\RJ Code Advance\Source Code for Sale\Complete Login Project- Nivel Avanzado\Full Login Project-C-Sharp SQL Server\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\bin\Debug\Infra.Common.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\bin\Debug\Infra.Common.pdb
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.csproj.AssemblyReference.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.csproj.CoreCompileInputs.cache
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.dll
+D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.pdb
