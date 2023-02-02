@@ -18,5 +18,6 @@ namespace Infra.Common
         public static int Id {get;set;}
         public static string Position {get;set;}  
         //Esto es un ejemplo simple y básico, hay muchas maneras de hacerlo.
+        //1
     }
 }

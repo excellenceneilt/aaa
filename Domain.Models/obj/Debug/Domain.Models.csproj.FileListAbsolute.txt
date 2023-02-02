@@ -39,3 +39,18 @@ D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-Ful
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.Models\obj\Debug\Domain.Models.csproj.CopyComplete
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.Models\obj\Debug\Domain.Models.dll
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.Models\obj\Debug\Domain.Models.pdb
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Domain.Models.dll
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Domain.Models.pdb
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Domain.ValueObjects.dll
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Infra.Common.dll
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Infra.DataAccess.dll
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Infra.EmailServices.dll
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Domain.ValueObjects.pdb
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Infra.Common.pdb
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Infra.DataAccess.pdb
+D:\Desarrollo\CODE\Test2\Domain.Models\bin\Debug\Infra.EmailServices.pdb
+D:\Desarrollo\CODE\Test2\Domain.Models\obj\Debug\Domain.Models.csproj.AssemblyReference.cache
+D:\Desarrollo\CODE\Test2\Domain.Models\obj\Debug\Domain.Models.csproj.CoreCompileInputs.cache
+D:\Desarrollo\CODE\Test2\Domain.Models\obj\Debug\Domain.Models.csproj.CopyComplete
+D:\Desarrollo\CODE\Test2\Domain.Models\obj\Debug\Domain.Models.dll
+D:\Desarrollo\CODE\Test2\Domain.Models\obj\Debug\Domain.Models.pdb

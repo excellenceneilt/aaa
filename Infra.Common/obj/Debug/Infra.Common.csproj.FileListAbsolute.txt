@@ -14,3 +14,9 @@ D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-Ful
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.csproj.CoreCompileInputs.cache
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.dll
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.Common\obj\Debug\Infra.Common.pdb
+D:\Desarrollo\CODE\Test2\Infra.Common\bin\Debug\Infra.Common.dll
+D:\Desarrollo\CODE\Test2\Infra.Common\bin\Debug\Infra.Common.pdb
+D:\Desarrollo\CODE\Test2\Infra.Common\obj\Debug\Infra.Common.csproj.AssemblyReference.cache
+D:\Desarrollo\CODE\Test2\Infra.Common\obj\Debug\Infra.Common.csproj.CoreCompileInputs.cache
+D:\Desarrollo\CODE\Test2\Infra.Common\obj\Debug\Infra.Common.dll
+D:\Desarrollo\CODE\Test2\Infra.Common\obj\Debug\Infra.Common.pdb
