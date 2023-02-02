@@ -78,7 +78,7 @@ namespace UI.WinForm.ChildForms
         {
             if (e.KeyCode == Keys.Enter)
             {
-                FindClient(txtSearch1.Text);//Buscar usuario si se preciona tecla enter en cuadro de texto buscar.
+                FindClient(txtSearch1.Text);//Buscar cliente si se preciona tecla enter en cuadro de texto buscar.
             }
         }
 

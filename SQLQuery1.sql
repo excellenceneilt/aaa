@@ -73,7 +73,7 @@ create proc EditClient
 	@email nvarchar(100),
 	@id int
 	as
-	update  Users	
+	update Clients	
 	set firstName=@firstName,lastName= @lastName,email=@email
 	where id=@id 
 go

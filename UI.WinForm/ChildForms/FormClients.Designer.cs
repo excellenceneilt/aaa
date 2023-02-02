@@ -141,6 +141,7 @@
             this.txtSearch1.Name = "txtSearch1";
             this.txtSearch1.Size = new System.Drawing.Size(442, 22);
             this.txtSearch1.TabIndex = 77;
+            this.txtSearch1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtSearch_KeyDown);
             // 
             // dataGridView1
             // 
