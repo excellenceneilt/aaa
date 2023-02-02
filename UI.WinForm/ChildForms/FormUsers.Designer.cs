@@ -130,7 +130,7 @@
             this.btnEdit.Name = "btnEdit";
             this.btnEdit.Size = new System.Drawing.Size(130, 38);
             this.btnEdit.TabIndex = 65;
-            this.btnEdit.Text = "Editar";
+            this.btnEdit.Text = "Smi";
             this.btnEdit.UseVisualStyleBackColor = false;
             this.btnEdit.Click += new System.EventHandler(this.btnEdit_Click);
             // 

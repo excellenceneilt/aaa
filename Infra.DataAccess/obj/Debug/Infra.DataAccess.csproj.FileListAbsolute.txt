@@ -21,3 +21,12 @@ D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-Ful
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CopyComplete
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.dll
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.pdb
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\bin\Debug\Infra.DataAccess.dll
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\bin\Debug\Infra.DataAccess.pdb
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\bin\Debug\Infra.Common.dll
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\bin\Debug\Infra.Common.pdb
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.AssemblyReference.cache
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CoreCompileInputs.cache
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.csproj.CopyComplete
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.dll
+D:\Sistema\LayeredFullLogin-CS-SQL\Infra.DataAccess\obj\Debug\Infra.DataAccess.pdb
