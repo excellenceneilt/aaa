@@ -21,3 +21,12 @@ D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-Ful
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CopyComplete
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.dll
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\bin\Debug\Domain.ValueObjects.pdb
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\bin\Debug\Infra.Common.dll
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\bin\Debug\Infra.Common.pdb
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.AssemblyReference.cache
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CoreCompileInputs.cache
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.csproj.CopyComplete
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.dll
+D:\Desarrollo\CODE\Test1\Domain.ValueObjects\obj\Debug\Domain.ValueObjects.pdb

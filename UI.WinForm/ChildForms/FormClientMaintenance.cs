@@ -453,9 +453,8 @@ namespace UI.WinForm.ChildForms
             base.CloseForm();
             LastRecord = null;
         }
+
+
         #endregion
-
-
-
     }
 }

@@ -101,3 +101,39 @@ D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-Ful
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.pdb
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormClients.resources
 D:\Sistema\Desarrollo\Pruebas y zip\Pruebas Neil\CS-FullLogin_CRUD_SQL-AL\CS-FullLogin_CRUD_SQL-AL\Español\LayeredFullLogin-CS-SQL\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormClientMaintenance.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\UI.WinForm.exe.config
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\UI.WinForm.exe
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\UI.WinForm.pdb
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\CircularProgressBar.dll
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Domain.Models.dll
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Domain.ValueObjects.dll
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Infra.Common.dll
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\WinFormAnimation.dll
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Infra.DataAccess.dll
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Infra.EmailServices.dll
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Domain.Models.pdb
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Domain.ValueObjects.pdb
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Infra.Common.pdb
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\CircularProgressBar.xml
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Infra.DataAccess.pdb
+D:\Desarrollo\CODE\Test1\UI.WinForm\bin\Debug\Infra.EmailServices.pdb
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.csproj.AssemblyReference.cache
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.csproj.SuggestedBindingRedirects.cache
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormCalendar.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormClientMaintenance.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormHistory.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormClients.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormRecoverPassword.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormReports.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserMaintenance.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUserProfile.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.ChildForms.FormUsers.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.LoginForm.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.MainForm.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.Properties.Resources.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.WelcomeForm.resources
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.csproj.GenerateResource.cache
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.csproj.CoreCompileInputs.cache
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.csproj.CopyComplete
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.exe
+D:\Desarrollo\CODE\Test1\UI.WinForm\obj\Debug\UI.WinForm.pdb

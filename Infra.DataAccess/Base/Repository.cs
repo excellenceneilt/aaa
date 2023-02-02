@@ -18,7 +18,7 @@ namespace Infra.DataAccess
 
         public Repository()
         {      
-            connectionString = "Server=(local);DataBase= Excellence0; integrated security= true";//Establecer la cadena de conexión.
+            connectionString = "Server=(local);DataBase= MyCompanyTest; integrated security= true";//Establecer la cadena de conexión.
         }
 
         protected SqlConnection GetConnection()
